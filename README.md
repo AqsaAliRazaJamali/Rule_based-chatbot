@@ -1,7 +1,13 @@
 # 🤖 ChatSimple: Rule-Based Python Chatbot
 
-[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
+![Regex](https://img.shields.io/badge/Regex-Powered-orange?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-Integration-green?style=for-the-badge)
+![Wikipedia API](https://img.shields.io/badge/Wikipedia-API-black?style=for-the-badge&logo=wikipedia)
+![Requests](https://img.shields.io/badge/Requests-Library-red?style=for-the-badge)
+![Desktop Application](https://img.shields.io/badge/Desktop-Application-purple?style=for-the-badge)
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **ChatSimple** is a robust desktop application built to demonstrate the power of **Regular Expressions (Regex)** and **RESTful API integration** in Python. Developed as a technical project, this application uses a modular logic engine to provide meaningful utility through a clean Graphical User Interface.
 
